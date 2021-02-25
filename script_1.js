@@ -1,5 +1,3 @@
-/*
-
 //2.1.1 Hello World
 
 console.log("Bonjour monde")
@@ -8,6 +6,3 @@ console.log("Bonjour monde")
 
 let nameUser= prompt("Quel est ton prénom ?")
 console.log(`Bonjour ${nameUser}`)
-
-
-*/
