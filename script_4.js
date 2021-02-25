@@ -59,7 +59,7 @@ console.log(entrepreneurs2);
 //Quel âge aurait chaque inventeur aujourd'hui ?
 
 
-entrepreneurs.forEach(i => console.log(`${i.first} ${i.last}  aurait eu ${2021 - i.year} ans cet année. `));
+entrepreneurs.forEach(i => console.log(`${i.first} ${i.last} aurait eu ${2021 - i.year} ans cette année. `));
 
 // Trie les entrepreneurs par ordre alphabétique du nom de famille.
 

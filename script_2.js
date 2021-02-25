@@ -15,5 +15,5 @@ result = num
       result = result * num
    }
     
-   console.log(`La factorielle de ${NumberChosen} est ${result}`);
+   console.log(`La factorielle de ${numberChosen} est ${result}`);
 
